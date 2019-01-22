@@ -7,7 +7,7 @@ layout: default
 [Link to another page](./another-page.html).
 
 
-# All Funding Pages So Far, Updated regularly
+# All Funding Pages So Far, Updated Regularly
 
 
 ### Large image
